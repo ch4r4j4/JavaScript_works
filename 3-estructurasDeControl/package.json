@@ -1,0 +1,16 @@
+{
+  "name": "trabajoclase3",
+  "version": "1.0.0",
+  "description": "este tranajo contienes if else switch y bucles",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bucles",
+    "condicionales"
+  ],
+  "author": "Paul Charaja",
+  "license": "ISC"
+}

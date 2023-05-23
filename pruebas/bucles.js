@@ -5,11 +5,11 @@ nums.pop();
 console.log(nums);
 
 let lista = [1,2,3,"unique", "esica", "ana", "Lilian"];
-for(let valor of lista){/// para listas es el forof
+for(let valor of lista){/// para listas es el forof  en incluso para interar un string
     console.log(valor);
 }
 
-lista.forEach(valor=>{
+lista.forEach(valor=>{//tambien sirve para listas
     console.log(valor);
 })
 
