@@ -4,7 +4,7 @@
   "description": "este tranajo contienes if else switch y bucles",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "factorial": "node factorial.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
