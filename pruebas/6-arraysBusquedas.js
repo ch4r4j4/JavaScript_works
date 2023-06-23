@@ -5,3 +5,4 @@ console.log(array.slice(0,5));
 const array2 = array.slice(2,-1);
 console.log(array2);
 ///complestar la leccion .find y foreach
+/// no se que cambios realizatr en este momento
