@@ -6,3 +6,20 @@ const array2 = array.slice(2,-1);
 console.log(array2);
 ///complestar la leccion .find y foreach
 /// no se que cambios realizatr en este momento
+
+array.find(valor =>{
+    if(valor=="a"){
+        console.log("si existe");
+    }
+})
+
+const listaobjetos = [
+    {name: "Paul"  ,edad:35},
+    {name: "Any", edad:35}
+]
+
+const objeto = listaobjetos.find(o => {
+    if(o.name==="Any"){
+        console.log("si existe");
+    }
+});
