@@ -39,3 +39,12 @@ let newArray=listaname.map((valor, i) => {
 })
 
 console.log(newArray);
+
+
+const listaObjetos = [
+    { nombre: "Leire", edad: 35 },
+    { nombre: "Gorka", edad: 34 },
+    { nombre: "Miguel", edad: 28 },
+    { nombre: "Lucía", edad: 3 },
+    { nombre: "Amaia", edad: 29}
+]
