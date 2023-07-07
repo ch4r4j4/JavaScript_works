@@ -18,8 +18,15 @@ const listaobjetos = [
     {name: "Any", edad:35}
 ]
 
+
 const objeto = listaobjetos.find(o => {
     if(o.name==="Any"){
         console.log("si existe");
     }
 });
+
+///
+let arraycadena =["valor", "amor","any",5,7,"kdc"];
+arraycadena.forEach(valor => {
+    if (valor=="any")console.log("si me ama");
+})
