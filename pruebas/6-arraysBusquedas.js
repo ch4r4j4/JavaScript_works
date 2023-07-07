@@ -30,3 +30,12 @@ let arraycadena =["valor", "amor","any",5,7,"kdc"];
 arraycadena.forEach(valor => {
     if (valor=="any")console.log("si me ama");
 })
+
+/// funione con map() reduce(), y filter()
+let listaname=["Paul","Anything","Almendra","Mama","Papa","yeni","Uriel"]
+
+let newArray=listaname.map((valor, i) => {
+    return `${i+1}-${valor}`;
+})
+
+console.log(newArray);
