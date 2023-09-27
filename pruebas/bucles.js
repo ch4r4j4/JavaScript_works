@@ -1,4 +1,4 @@
-var nums = [1,2,3];
+/*var nums = [1,2,3];
 nums.splice(1,1);
 console.log(nums);
 nums.pop();
@@ -35,4 +35,12 @@ let star =0
 do {
     star++
     console.log(star);
-} while (star<max);
+} while (star<max);*/
+
+// Task 1: Build a function-based console log message generator
+var oliva = 68;
+function generate(){
+    var olivia=88;
+}
+
+console.log(olivia);
