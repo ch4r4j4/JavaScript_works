@@ -1,4 +1,4 @@
-class Mascota{
+/*class Mascota{
     constructor(peso, edad){
         this.peso =peso;
         this.edad = edad;
@@ -11,4 +11,15 @@ console.log(charpi);
 
 for (const iterator of Object.keys(charpi)) {
      console.log(charpi[iterator]);
+}*/
+
+var dairy = ['cheese', 'sour cream', 'milk', 'yogurt', 'ice cream', 'milkshake']
+
+function logDairy(){
+    for (const iterator of dairy){
+        console.log(iterator);
+    }
 }
+
+logDairy();
+
