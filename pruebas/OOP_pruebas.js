@@ -20,7 +20,6 @@ function logDairy(){
     for (const iterator of dairy){
         console.log(iterator);
     }
-}
 
 logDairy();*/
 
